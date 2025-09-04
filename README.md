@@ -1,7 +1,7 @@
 # 🏗️ Construction Chatbot — Arqonz Assignment
 
 **Assignment Track:** AIML Developer  
-**Candidate:** Avinash Varma (GitHub:(https://github.com/Avi-Varma08))  
+**Candidate:** Avinash Varma (GitHub:(https://github.com/Avi-Varma08/Construct-Chatbot))  
 **Tech Stack:** React (frontend) • FastAPI (backend) • Hosted on Vercel + Render  
 
 ---
